@@ -1,6 +1,6 @@
 
 
-[![wakatime](https://wakatime.com/badge/user/018cff95-62d4-4c2e-8d2a-f184db7cdec9.svg)](https://wakatime.com/@3de5645b-cd69-4f23-ac7a-01b308ade5f0)
+[![wakatime](https://wakatime.com/badge/user/3de5645b-cd69-4f23-ac7a-01b308ade5f0.svg)](https://wakatime.com/@3de5645b-cd69-4f23-ac7a-01b308ade5f0)
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fadibel.fadibel" />
 
 <h1 align="center">
