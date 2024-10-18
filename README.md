@@ -52,14 +52,14 @@
 <hr>
 <br>
 
-<p align="center">
+ <!--  <p align="center">
   <a href="https://github.com/fadibel">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-fadibel
 " alt="fadibel's GitHub streak"/>
   </a>
   
 
-</p>
+</p>  -->
 
 
  <p align="center">
