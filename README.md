@@ -54,14 +54,19 @@
 
 <p align="center">
   <a href="https://github.com/fadibel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadibel&theme=algolia" alt="fadibel's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-fadibel
+" alt="fadibel's GitHub streak"/>
   </a>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-fadibel&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </p>
-<p align="center">
+
+
+<!-- <p align="center">
   <a href="https://github.com/fadibel">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadibel&theme=algolia" alt="fadibel's GitHub Contribution"/>
   </a>
-</p>
+</p> -->
 <p align="center">
 <a href="https://github.com/fadibel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadibel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
