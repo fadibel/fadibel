@@ -9,71 +9,77 @@
 </h1>
 <br/>
 
-  Hello, I'm Fadi, a driven student, freelance software developer based in Constantine, Algeria. My passion lies in bringing imaginative concepts to fruition through the development of top-tier web applications development.I focus on all things design and web related. With each of my services, my goal is to deliver an impactful and elevating digital experience for everyone.
-
-
-
-<br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **my company**
- 
- 🌱 I’m currently learning **javascript, react, next.js**
-
-💬 Ask me about **HTML, CSS, tailwind... or anything [here](https://github.com/fadibel/fadibel/issues)**
-
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:fadibelkacemi05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="www.linkedin.com/in/ fadi-belkacemi-0b39842a4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/fadi-belkacemi-0b39842a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://x.com/fadi_belkacemi?t=C4uMOd9XhZBuCnuW5pFXbQ&s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
   </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a> 
 </div>
 
- <br/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+###
+
+
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+<hr/>
+
+###
+
+<p align="left">I'm fadi from Algeria<br><br><br>- 🔭 I’m working as frontend developer.<br>- 📚 I'm currently learning Backend development.<br>- ⚡ In my free time I practice sport and read books.<br>- 💬 Ask me about anything.</p>
+
+###
+
+
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<hr/>
+
+###
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,c,java,nextjs,mysql," /><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="60" alt="appwrite logo"  />
 </div>
-<br/><br/>
-<br/>
-<b> ⚡ Stats ⚡ </b> 
-<hr>
-<br>
 
- <!--  <p align="center">
-  <a href="https://github.com/fadibel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-fadibel
-" alt="fadibel's GitHub streak"/>
-  </a>
-  
+###
 
-</p>  -->
+<h3 align="center">🔥   My Stats</h3>
 
+<hr/>
 
- <p align="center">
-  <a href="https://github.com/fadibel">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadibel&theme=algolia" alt="fadibel's GitHub Contribution"/>
-  </a>
-</p> 
-<p align="center">
-<a href="https://github.com/fadibel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadibel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadibel&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
-</a>
-</p>
+###
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fadibel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=rose_pine&locale=en&hide_border=false&order=1" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadibel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2&custom_title=My%20programming%20languages%20" height="220" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fadibel&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<br/>
+###
